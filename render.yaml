@@ -1,5 +1,6 @@
 services:
   - type: web
-    name: FarhanPortfolio
+    name: my
     env: static
+    buildCommand: npm run build
     staticPublishPath: dist
