@@ -30,14 +30,27 @@ function Worq2() {
       id: 1,
       title: "IT TEAMWORK",
       subtitle: "IT institute ",
-      link: "https://www.itteamwork.com/" // Define link paths
+      link: "https://itteamwork.netlify.app/" // Define link paths
     },
     {
       id: 2,
-      title: "BAR KARAKTER",
+      title: "FITNESS20",
       subtitle: "personal project",
-      link: "https://chatgpt.com/c/673716e3-2e2c-8013-96b2-94789a39fd11"
-    }
+      link: "https://gymfitness20.netlify.app"
+    },
+    {
+      id: 3,
+      title: "STEPNEST",
+      subtitle: "personal project",
+      link: "https://stepnest.netlify.app"
+    },
+    {
+      id: 4,
+      title: "PORTFOLIO",
+      subtitle: "personal project",
+      link: "https://farhanport.netlify.app" // Define link paths
+    },
+   
   ];
 
   return (
