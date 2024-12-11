@@ -40,9 +40,9 @@ function Worq2() {
     },
     {
       id: 3,
-      title: "STEPNEST",
+      title: "REACT PRACTICE",
       subtitle: "personal project",
-      link: "https://stepnest.netlify.app"
+      link: "https://reactfproject.netlify.app"
     },
     {
       id: 4,
